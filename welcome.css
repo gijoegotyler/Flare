@@ -1,0 +1,10 @@
+.inline {
+  display: inline-block;
+}
+
+.inline-profpic {
+  display: inline-block;
+  float: right;
+  margin-right: 10px;
+  margin-bottom: 15px;
+}
