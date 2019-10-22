@@ -1,4 +1,4 @@
-# Flare
+# Flare                 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 Flare is an open source social media platform. The goal is to have a high quality open source alternative to main stream social media platforms like Facebook, Twitter and Instagram. 
 
 ## Features
